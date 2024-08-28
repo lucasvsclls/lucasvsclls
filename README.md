@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="https://skillicons.dev/icons?i=c++,html,css,git&perline=5" alt="Tech Stack" />
 <!--
 **lucasvsclls/lucasvsclls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
