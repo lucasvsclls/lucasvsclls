@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78F51&center=true&vCenter=true&width=435&height=32&lines=iOS+Developer;Software+Engineering+Student;Swift+%7C+Python+%7C+C;Software+Architecture" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f05138&center=true&vCenter=true&width=435&height=32&lines=iOS+Developer;Software+Engineering+Student;Swift+%7C+Python+%7C+C;Software+Architecture" alt="Typing SVG" /></a>
   </a>
 </p>
 
