@@ -1,35 +1,109 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&pause=900&color=F7F0F0&background=0D0413&center=true&vCenter=true&width=1113&height=100&lines=+Hello!+I+am+Lucas+Vasconcellos+%F0%9F%A7%91%F0%9F%8F%BB;+Software+Engineering+Student+%F0%9F%92%BB;+IOS+Developer+%F0%9F%95%B9%EF%B8%8F;+Be+welcome+%E3%83%84" alt="Typing SVG" /></a>
+# Hello! I'm Lucas Vasconcellos
 
-## 
-
-As a software engineering student at the Catholic University of Brasília, I am delving into key areas like programming fundamentals, human-computer interaction, cloud computing, and web development. However, my true passion lies in game development, with the long-term goal of creating my own game studio.
-
-## 🛠 Technologies & Tools I Use:
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" height="30"/> 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
-</div>
-
-## 📊 GitHub Stats:
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasvsclls&show_icons=true&theme=dark" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvsclls&layout=compact&theme=dark" height="180">
-</div>
-
-## 🚀 Current Focus:
-
-As a student of Software Engineering, I'm focused on:
-- Strengthening my foundation in programming.
-- Continuously enhancing my problem-solving skills through coding challenges and projects.
-
-## 📫 How to Reach Me:
-
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/lucas-vasconcellos-965436307/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&pause=1200&color=F7F0F0&center=true&vCenter=true&width=1000&lines=iOS+Developer+📱;Software+Engineering+Student+💻;Swift+|+Python+|+C;Software+Architecture+Enthusiast+🏗️" alt="Typing SVG"/>
   </a>
-</div>
+</p>
+
+---
+
+## 👨🏻‍💻 About Me
+
+I'm a **Software Engineering student** from Brazil with a passion for building high-quality software, specializing in **iOS development**.
+
+I enjoy designing scalable applications, studying software architecture, and writing clean, maintainable code using modern Swift technologies.
+
+### 🎯 Interests
+
+- 📱 Native iOS Development
+- 🏗️ Software Architecture
+- 🧩 Software Engineering
+- ⚡ Swift & SwiftUI
+- 🐍 Python
+- 💻 C Programming
+- ☁️ REST APIs
+- 🧪 Clean Code & Design Patterns
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,python,c" />
+</p>
+
+### Apple Development
+
+<p>
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftData-E34F26?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudKit-0A84FF?style=for-the-badge&logo=icloud&logoColor=white"/>
+</p>
+
+### Software Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOLID-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Async%2FAwait-795548?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Swift%20Concurrency-E91E63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### 📱 [Dotch](https://apps.apple.com/br/app/dotch-the-file-notch/id6786852922?l=en-GB&mt=12)
+
+A native macOS application built with SwiftUI that helps users organize and access files more efficiently.
+
+**Tech:** Swift • SwiftUI • MVVM • AppKit • FileManager • SwiftData
+
+---
+
+### 👨‍👩‍👧‍👦 [Cooinc](https://apps.apple.com/br/app/cooinc/id6761497139?l=en-GB)
+
+A family financial education app focused on helping parents teach children about money through shared goals and gamification.
+
+**Tech:** Swift • SwiftUI • MVVM • SwiftData • CloudKit
+
+---
+
+### 🔔 [Package-Notificacao-iOS](https://github.com/lucasvsclls/Package-Notificacacao-IOS)
+
+A lightweight Swift Package that simplifies scheduling and managing local notifications on iOS using UserNotifications.
+
+**Tech:** Swift • Swift Package Manager • UserNotifications
+
+---
+
+## 🚀 Currently Learning
+
+- Advanced Swift
+- SwiftUI
+- Software Architecture
+- Design Patterns
+- Software Engineering
+- Testing on iOS
+- Performance & Memory Management
+
+---
+
+## 📫 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/lucas-vasconcellos-965436307/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> *"Building software that is simple, scalable and enjoyable to use."*
